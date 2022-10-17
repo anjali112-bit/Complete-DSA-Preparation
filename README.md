@@ -410,14 +410,15 @@ dsa-course@upi
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1|
-
+|1| [N Queen Problem](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/) | | | | :green_square
+🟩 : Easy | Backtracking |
+|2| [Backtracking to find all subsets](https://www.geeksforgeeks.org/backtracking-to-find-all-subsets/) | | | | :orange_square 🟧 : Medium | Backtracking |
 
 ## Dynamic Programming
 
 |  #  |      Title     |   Code   |    Document   |  Video  | Difficulty  | Tag                   
 |-----|----------------|----------|---------------|---------|-------------|--------
-|1| [Fibonacci Numbers - Top Down DP](https://practice.geeksforgeeks.org/problems/fibonacci-numbers-top-down-dp/1) | | |  | :green_square: Easy | Recursion |
+|1| [Fibonacci Numbers - Top Down DP](https://practice.geeksforgeeks.org/problems/fibonacci-numbers-top-down-dp/1) | | |  | :green_square: Easy | Recursion | 
 
 
 ## Trie
